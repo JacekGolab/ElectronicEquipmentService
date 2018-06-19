@@ -23,9 +23,8 @@
 	</center></fieldset>
 
 	<h2>
-	<center>Dzień dobry!!<br>Oto projekt końcowy Jacka i Maćka!</center>
+	<center>Welcome</center>
 	</h2>
-	<h5><center>(Bądźcie wyrozumiali ;) )</center></h5>
 	<br>
 
 
